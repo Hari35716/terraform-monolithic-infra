@@ -2,7 +2,6 @@ trigger: none
 
 pool: agent-pool-aman
 steps:
-  - 
 - task: PowerShell@2
   inputs:
     targetType: 'inline'

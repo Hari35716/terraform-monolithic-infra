@@ -1,6 +1,6 @@
 trigger: none
 
-pool: Default
+pool: agent-pool-aman
 steps:
   - 
 - task: PowerShell@2

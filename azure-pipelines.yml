@@ -6,8 +6,7 @@ steps:
   inputs:
     versionSource: 'spec'
     versionSpec: '16.x'
-    checkLatest: true
-    force32bit: true
+
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
